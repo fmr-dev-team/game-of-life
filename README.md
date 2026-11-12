@@ -16,5 +16,5 @@
 
 ## Team
 - [Fares](https://github.com/farestouazi)
-- [Mohamed](https://github.com/)
-- [Rida](https://github.com/)
+- [Mohamed](https://github.com/mohamednazihnouri-code)
+- [Rida](https://github.com/Ridach606)
